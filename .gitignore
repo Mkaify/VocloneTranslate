@@ -1,0 +1,40 @@
+# ==========================================
+# 🐍 Backend (voclonetranslate/) Ignored Files
+# ==========================================
+voclonetranslate/venv/
+voclonetranslate/__pycache__/
+voclonetranslate/uploads/
+voclonetranslate/outputs/
+voclonetranslate/dataset/
+voclonetranslate/training_pipeline/
+voclonetranslate/model_files/
+
+# Logs and terminal outputs
+voclonetranslate/backend.log
+backend.log
+
+# Temporary test audio files
+voclonetranslate/*.wav
+*.wav
+
+# ==========================================
+# ⚛️ Frontend (voclone_web/) Ignored Files
+# ==========================================
+voclone_web/node_modules/
+voclone_web/.next/
+voclone_web/out/
+voclone_web/build/
+voclone_web/package-lock.json
+
+# Logs
+voclone_web/frontend.log
+frontend.log
+
+# Environment files
+.env*.local
+
+# ==========================================
+# 💻 System Ignored Files
+# ==========================================
+.DS_Store
+Thumbs.db
