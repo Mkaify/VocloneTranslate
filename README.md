@@ -61,7 +61,7 @@ Engineered specifically to execute within tightly constrained hardware infrastru
 1.  **Clone the Codebase & Initialize Dependencies:**
     
     ```bash
-    git clone [https://github.com/Mkaify/VocloneTranslate.git](https://github.com/Mkaify/VocloneTranslate.git)
+    git clone https://github.com/Mkaify/VocloneTranslate.git
     cd VocloneTranslate
     pip install -r requirements.txt
     
