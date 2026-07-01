@@ -28,6 +28,7 @@ The platform processes input video media streams through five distinct asynchron
 ├── xtts_worker.py         # Asynchronous Execution Hub & Subprocess Pipeline Workers
 ├── requirements.txt       # Environment Dependency Matrix Blueprint
 └── .gitignore             # Strict Local Cache and Heavy Checkpoint Exclusion Mapping
+```
 
 ## 📥 Project Assets & Model Checkpoints
 
