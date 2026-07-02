@@ -28,6 +28,7 @@ The platform processes input video media streams through five distinct asynchron
 ├── xtts_worker.py         # Asynchronous Execution Hub & Subprocess Pipeline Workers
 ├── requirements.txt       # Environment Dependency Matrix Blueprint
 └── .gitignore             # Strict Local Cache and Heavy Checkpoint Exclusion Mapping
+```
 
 ## 📥 Project Assets & Model Checkpoints
 
@@ -60,7 +61,7 @@ Engineered specifically to execute within tightly constrained hardware infrastru
 1.  **Clone the Codebase & Initialize Dependencies:**
     
     ```bash
-    git clone [https://github.com/Mkaify/VocloneTranslate.git](https://github.com/Mkaify/VocloneTranslate.git)
+    git clone https://github.com/Mkaify/VocloneTranslate.git
     cd VocloneTranslate
     pip install -r requirements.txt
     
